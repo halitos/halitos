@@ -3,9 +3,9 @@
           
 - I’m interested in Full Stack Web Development 
 
-- 💻 I’m currently learning Next JS and React Native
+- 💻 currently learning Next JS and React Native
 
-- I’m looking to collaborate on any exciting project
+- Looking to collaborate on any exciting project
 
 - You can reach me on Linkedin www.linkedin.com/in/halit-oskan 
 
