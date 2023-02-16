@@ -3,7 +3,7 @@
           
 - I’m interested in Full Stack Web Development 
 
-- 💻 currently learning Next JS and React Native
+- 💻 currently learning Vue JS and React Native
 
 - Looking to collaborate on any exciting project
 
