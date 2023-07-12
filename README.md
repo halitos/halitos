@@ -3,10 +3,6 @@
           
 - I’m interested in Full Stack Web Development 
 
-- 💻 currently learning Vue JS and React Native
-
-- Looking to collaborate on any exciting project
-
 - You can reach me on Linkedin www.linkedin.com/in/halit-oskan 
 
 <!---
