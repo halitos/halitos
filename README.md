@@ -1,5 +1,5 @@
           
-# Hi 👋 I’m Halit # ...
+# Hi 👋 I’m Halit #
           
 - I’m interested in Full Stack Web Development 
 
